@@ -1,0 +1,133 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "HomeWork_10.src.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Architecture10"
+        },
+        {
+            "type": "java",
+            "name": "BookApi",
+            "request": "launch",
+            "mainClass": "org.example.BookApi",
+            "projectName": "Architecture9"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "HomeWork_02.Builder.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "HomeWork_02.ChainOfResponsibility.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "HomeWork_02.Command.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "HomeWork_02.Decorator.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "HomeWork_02.Memento.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "HomeWork_02.State.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "HomeWork_03.DIP.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "HomeWork_03.ISP.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "GeometryApp",
+            "request": "launch",
+            "mainClass": "HomeWork_04.GeometryApp",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "HomeWork_05.DAO.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "HomeWork_05.Domain_Model.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "HomeWork_06.src.presentation.Main",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "BookApi(1)",
+            "request": "launch",
+            "mainClass": "HomeWork_09.src.main.java.org.example.BookApi",
+            "projectName": "HomeWorks_1098b912"
+        },
+        {
+            "type": "java",
+            "name": "Main(12)",
+            "request": "launch",
+            "mainClass": "HomeWork_10.Architecture10.src.main.java.Main",
+            "projectName": "HomeWorks_1098b912"
+        }
+    ]
+}
